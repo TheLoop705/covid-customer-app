@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895033238631",
+    "project_id": "restaurant-4f954",
+    "storage_bucket": "restaurant-4f954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895033238631:android:018041738bfb2f47e220c2",
+        "android_client_info": {
+          "package_name": "com.getweys.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895033238631-hukiugj7pr4b2rnk34vum3hrdmjssg8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXustFWF_juJDOguPkwCWaurBNt_-ac7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895033238631-hukiugj7pr4b2rnk34vum3hrdmjssg8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
